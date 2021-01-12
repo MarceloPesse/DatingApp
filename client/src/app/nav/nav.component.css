@@ -6,3 +6,9 @@ a.nav-link{
     margin-left: 25px;
     margin-right: 25px;
 }
+
+img {
+    max-height: 50px;
+    border: 2px solid #fff;
+    display: inline;
+}
